@@ -93,9 +93,6 @@ public class Simulation {
 		return list;
 	}
 
-
-	////////////////////////// STATIC METHODS ///////////////////////
-
 	/**
 	 * Creates main() to run this example
 	 */
