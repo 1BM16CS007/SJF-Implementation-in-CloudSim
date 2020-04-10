@@ -18,10 +18,6 @@ import org.cloudbus.cloudsim.lists.VmList;
 /**
  * DatacentreBroker represents a broker acting on behalf of a user. It hides VM management, as vm
  * creation, sumbission of cloudlets to this VMs and destruction of VMs.
- * 
- * @author Rodrigo N. Calheiros
- * @author Anton Beloglazov
- * @since CloudSim Toolkit 1.0
  */
 public class DatacenterBroker extends SimEntity {
 
